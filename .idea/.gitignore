@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Maven / Gradle
+target/
+build/
+
+# Node
+node_modules/
+dist/
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
